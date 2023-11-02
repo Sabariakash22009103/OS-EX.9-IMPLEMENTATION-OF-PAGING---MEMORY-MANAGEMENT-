@@ -20,7 +20,7 @@ To write a c program to implement Paging technique for memory management.
 7. Stop the process.
 
 ## PROGRAM:
-```
+```c
 #include<stdio.h>
 int main()
 {
